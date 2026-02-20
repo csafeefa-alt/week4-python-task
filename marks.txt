@@ -1,3 +1,0 @@
-Rahul,80
-Anu,90
-Arjun,abc
